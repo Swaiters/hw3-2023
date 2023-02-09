@@ -74,9 +74,10 @@ h1, h2, h3{
     width: 90%;
     margin: 0 5vw;
     border-radius: 25px;
+    justify-content: space-between;
     grid-template-columns: 30.00% 30.00% 30.00% ;
-    column-gap: 60px ;
-    row-gap: 25px;
+    column-gap: 50px ;
+    row-gap: 10px;
     background-color: rgb(122, 135, 151);
 
 
